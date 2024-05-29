@@ -1,0 +1,9 @@
+[submodule "Shaders"]
+	path = Shaders
+	url = https://github.com/MelPeslier/Shaders
+[submodule "Polygons"]
+	path = Polygons
+	url = https://github.com/MelPeslier/Polygons
+[submodule "Lights"]
+	path = Lights
+	url = https://github.com/MelPeslier/Lights
